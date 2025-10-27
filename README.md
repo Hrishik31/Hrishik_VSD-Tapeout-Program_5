@@ -121,9 +121,12 @@ yosys -help
 openroad -help
 ```
 
-![Installation Step 3](<img width="1211" height="706" alt="yosys -help" src="https://github.com/user-attachments/assets/312e4997-6a2f-4b50-97dd-aca70c905f82" />)
+<img width="1211" height="706" alt="yosys -help" src="https://github.com/user-attachments/assets/312e4997-6a2f-4b50-97dd-aca70c905f82" />
 
-![Installation Step 4](<img width="1207" height="410" alt="openroad -help" src="https://github.com/user-attachments/assets/4086aa76-2b96-4472-9dd9-8b3abc58e207" />)
+
+<img width="1207" height="410" alt="openroad -help" src="https://github.com/user-attachments/assets/4086aa76-2b96-4472-9dd9-8b3abc58e207" />
+
+
 
 Alternatively, launch OpenROAD directly:
 ```bash
