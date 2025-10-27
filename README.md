@@ -161,7 +161,7 @@ Execute the full flow (stops before routing):
 make
 ```
 
-![Installation Step 5](<img width="1207" height="760" alt="flow_make" src="https://github.com/user-attachments/assets/af94743f-e843-4832-bc3a-8e4aed6e7de7" />)
+<img width="1207" height="760" alt="flow_make" src="https://github.com/user-attachments/assets/af94743f-e843-4832-bc3a-8e4aed6e7de7" />
 
 **What Happens:**
 - 🔹 **Floorplan Stage:** Defines core area, die dimensions, I/O placement
@@ -181,7 +181,7 @@ Launch the graphical user interface (GUI) to visualize the final layout:
 make gui_final
 ```
 
-![GUI Final](<img width="1193" height="691" alt="make gui_final" src="https://github.com/user-attachments/assets/e9a406f2-6e0e-4542-848f-90ac7d1316dc" />)
+<img width="1193" height="691" alt="make gui_final" src="https://github.com/user-attachments/assets/e9a406f2-6e0e-4542-848f-90ac7d1316dc" />
 
 
 ## ⏱️ Timing Analysis in OpenROAD GUI
@@ -189,7 +189,7 @@ make gui_final
 ---
 
 ### 📘 Hold Slack Analysis
-![Hold Slack](<img width="1217" height="777" alt="hold_slack" src="https://github.com/user-attachments/assets/538ad2b1-e388-4841-976f-519666306a36" />)
+<img width="1217" height="777" alt="hold_slack" src="https://github.com/user-attachments/assets/538ad2b1-e388-4841-976f-519666306a36" />
 
 **Definition:**  
 Hold slack = Data Arrival − (Clock Arrival + Hold Time)
@@ -210,7 +210,7 @@ Hold slack = Data Arrival − (Clock Arrival + Hold Time)
 ---
 
 ### 🔴 Setup Slack Analysis
-![Setup Slack](<img width="1047" height="636" alt="setup_slack" src="https://github.com/user-attachments/assets/e1d2b7a8-f055-419a-a58a-33322b70b515" />)
+(<img width="1047" height="636" alt="setup_slack" src="https://github.com/user-attachments/assets/e1d2b7a8-f055-419a-a58a-33322b70b515" />
 
 **Definition:**  
 Setup slack = Required Time − (Data Arrival + Setup Time)
