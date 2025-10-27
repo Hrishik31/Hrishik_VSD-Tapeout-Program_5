@@ -407,8 +407,7 @@ This pattern ensures balanced power distribution, minimal delay, and optimal rou
 
 ## Reference
 
--(https://github.com/spatha0011/spatha_vsd-hdp/blob/main/Day14/README.md)
+- https://github.com/spatha0011/spatha_vsd-hdp/blob/main/Day14/README.md
 
 ---
 
-✅ **Installation Complete!** You can now explore the full RTL-to-GDSII flow using OpenROAD.
